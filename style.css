@@ -1,0 +1,169 @@
+ #map { 
+	    width: 90%;
+	    height: 700px;
+      box-shadow: 5px 5px 5px #888;
+      position: relative;
+      top: 2px;
+	 }
+
+#tabla {
+  border-collapse: collapse;
+  width: 100%;
+  position: relative;
+  margin: 15px 0;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+
+#tabla tr:nth-child(even){background-color: #f2f2f2;}
+
+tr {
+  background-color: white;
+  color: black;
+  font-family: Arial;
+  font-size: 15 px;
+  text-align: center;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+th {
+  background-color: #30BAB2;
+  color: black;
+  font-family: Arial;
+  font-size: 15 px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.positivosdiarios {
+	border-radius: 20px;
+  	border: 2px solid #000000;
+  	position: absolute;
+  	padding: 8px; 
+  	top: 6%;
+    right: 1%;
+    font-size: 30px;
+    text-align: center;
+    background-color: #FFFEFB;
+}
+h3 {
+  color: black;
+  font-family: Arial;
+  font-size: 18px;
+}
+
+#totalposi, #fallecidos {
+  color: red;
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: bold;
+} 
+
+body {
+  background-color: #406087;
+}
+
+.fallecimientos {
+	border-radius: 20px;
+  	border: 2px solid #000000;
+  	position: absolute;
+  	padding: 5px; 
+  	top: 210px;
+    right: 20px;
+    font-size: 16px;
+    font-family: Arial;
+    text-align: center;
+    background-color: #FFFEFB;
+}
+
+.altas {
+	border-radius: 20px;
+  	border: 2px solid #000000;
+  	position: absolute;
+  	padding: 12px; 
+  	top: 355px;
+    right: 20px;
+    font-size: 18px;
+    font-family: Arial;
+    text-align: center;
+    background-color: #FFFEFB;
+}
+
+#altastotales {
+  color: green;
+  font-family: Arial;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.fechadatos {
+	border-radius: 20px;
+  	border: 2px solid #000000;
+    position: absolute;
+    padding-top: 1px;
+    padding-right: 25px; 
+    padding-left: 25px; 
+    padding-bottom: 1px;  
+  	top: 515px;
+    right: 25px;
+    font-size: 18px;
+    font-family: Arial;
+    text-align: center;
+    background-color: #FFFEFB;
+}
+
+#titulo {
+  font-size: 12px;
+  font-family: Arial;
+  text-align: center;
+  color:white;
+}
+
+#fecha {
+  font-size: 20px;
+  font-family: Arial;
+  text-align: center;
+  font-weight: bold;
+}
+
+.creditos {
+    position: absolute;
+  	top: 640px;
+    right: 30px;
+    font-size:15px;
+    color:white;
+    font-family: Arial;
+}
+
+p1 {
+  font-size:15px;
+  font-family: Arial;
+  text-align: center;
+  color:white;
+}
+
+.a{
+  font-size:18px;
+  font-family: Arial;
+  background-color: #30BAB2;
+  border: 2px solid black;
+  position: absolute;
+  padding-top: 1px;
+  padding-right: 25px; 
+  padding-left: 25px; 
+  padding-bottom: 1px; 
+  top: 70px;
+}
+
+a:visited {
+  color: black;
+}
