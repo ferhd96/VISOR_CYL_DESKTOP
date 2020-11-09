@@ -1,6 +1,8 @@
 # Visor cartográfico COVID-19 CYL Versión desktop
 Visor cartográfico sobre los casos de coronavirus en Castilla y León en tiempo real. En el visor se ha incluido un dashboard donde se muestran los casos totales diarios, defunciones totales y altas totales de la comunidad. Asimismo en la parte inferior se ha incluido una tabla donde se muestra los datos a detalle a nivel provincial. El visor está optimizado para su visualización en ordendadores.
-Los datos son tomados de la API sobre la situación epidomológica de Castilla y León 
+
+## Fuente de datos 
+API sobre la situación epidomológica de Castilla y León 
 https://analisis.datosabiertos.jcyl.es/explore/dataset/situacion-epidemiologica-coronavirus-en-castilla-y-leon/api/?disjunctive.provincia
 
 ## Enlace al visor: 
